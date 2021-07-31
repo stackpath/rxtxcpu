@@ -7,7 +7,7 @@ taken suitable precations for, each command before running.
 
 Setup details:
 * `ixgbe0` is an `82599ES 10-Gigabit SFI/SFP+ Network Connection (Ethernet
-    Server Adapter X520-2)` using the in-tree **ixgbe** driver
+    Server Adapter X520-2)` using the **in-tree** ixgbe driver
 * `eth0` is a nic in the same layer 2 network as `ixgbe0`
 * `localhost` is the host which contains `ixgbe0`
 * `remotehost` is the host which contains `eth0`
