@@ -4,7 +4,7 @@ PREFIX = /usr/local
 
 include VERSION
 
-all: rxtxcpu rxcpu txcpu
+all: rxtxcpu
 
 rxtxcpu.o: EXTRA_CFLAGS = \
 	-std=c99 \
